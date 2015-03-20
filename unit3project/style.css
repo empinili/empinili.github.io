@@ -1,0 +1,30 @@
+body{
+	font-family: Tahoma, Arial;
+	font-size: 22px;
+	text-align: center;
+	background: #acc4a0;
+	color: #000;
+}
+
+#slogan{
+	font-style: italic;
+	color: #393939;
+}
+
+h1{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.classesoffered{
+	text-align: left;
+	font-family: Arial;
+	font-size: 20px;
+	color: #393939;
+}
+
+.contactme{
+	text-align: right;
+	font-size: 15px;
+	text-transform: uppercase;
+}
