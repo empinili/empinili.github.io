@@ -17,11 +17,13 @@ h1{
   text-decoration: none;
 }
 
-.classesoffered{
+.mission{
 	text-align: left;
 	font-family: Arial;
 	font-size: 20px;
 	color: #393939;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 .contactme{
