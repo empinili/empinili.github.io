@@ -4,6 +4,8 @@ body{
 	text-align: center;
 	background: #acc4a0;
 	color: #000;
+	line-height: 1.5em;
+	margin: 2em;
 }
 
 #slogan{
@@ -16,6 +18,7 @@ h1{
   color: #ffffff;
   text-decoration: none;
   font-family: "Raleway", san-serif;
+  font-weight: bolder;
 }
 
 .mission{
@@ -36,4 +39,6 @@ h1{
 	font-size: 15px;
 	text-transform: uppercase;
 	padding-right: 35px;
+	line-height: 1.25em;
+	font-family: "Raleway", san-serif;
 }
