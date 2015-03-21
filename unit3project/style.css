@@ -1,5 +1,5 @@
 body{
-	font-family: Tahoma, Arial;
+	font-family: "Slabo", Serif;
 	font-size: 22px;
 	text-align: center;
 	background: #acc4a0;
@@ -9,17 +9,17 @@ body{
 #slogan{
 	font-style: italic;
 	color: #393939;
-	font-family: Century Gothic;
+	font-family: "Raleway", san-serif;
 }
 
 h1{
   color: #ffffff;
   text-decoration: none;
+  font-family: "Raleway", san-serif;
 }
 
 .mission{
 	text-align: left;
-	font-family: Arial;
 	font-size: 20px;
 	color: #393939;
 	padding-right: 50px;
