@@ -42,3 +42,8 @@ h1{
 	line-height: 1.25em;
 	font-family: "Raleway", san-serif;
 }
+
+img{
+	padding: 1px;
+	border: 1px solid #fff;	
+}
