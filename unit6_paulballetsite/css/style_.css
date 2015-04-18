@@ -1,0 +1,109 @@
+body {
+	font-size: 14px;
+  	font-family: 'Open Sans', sans-serif;
+  	color: #666;
+}
+
+h1 {
+	text-transform: uppercase;
+  	border-bottom: 4px solid black;
+	display: inline-block;
+  	font-weight: 800;
+} 
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+	text-align: center;
+	padding: .5em 0;
+	color: #000;
+	border-bottom: #000;
+
+}
+nav {
+  font-size: 1.1em;
+  float: right;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  margin: 1.1em;
+  display: inline-block;
+}
+#top {
+	text-align: left;
+}
+
+section {
+	background: #fff;
+	color: #666;
+	overflow: auto;
+}
+
+div {
+	font-size: 1.2em;
+	width: 29%;
+	padding: 1.5%;
+	text-align: block;
+	display: inline-block;
+}
+
+#modern {
+	float: left;
+}
+
+#ballet {
+	float: left;
+}
+
+#tap {
+	float: left;
+}
+
+section div {
+	text-align: center;
+}
+
+section div p {
+	text-align: left; 
+}
+
+section div img {
+	width: 100%;
+}
+
+.myButton {
+	background-color:#f5b3f5;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:28px;
+	border:1px solid #f5b3f5;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	padding:12px 25px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#f5b3f5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+footer {
+	background-color: #fff;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	text-align: center;
+	padding: 1em 0;
+	clear: both;
+}
