@@ -1,0 +1,70 @@
+
+body{
+	font-family: "Lato", sans-serif;
+	background: #d8d3c0
+	color:#f6f6f6;
+  line-height: 1.5em;
+  font-size: 14px;
+}
+
+h1{
+  font-size: 3em;
+  padding: 10px 0px;
+  margin: 20px 0px;
+}
+
+h2{
+  font-weight: bolder;  
+}
+
+nav{
+  background: #000000;
+  padding: 15px;
+  display: block;
+}
+
+nav a{
+  text-decoration: none;
+  padding: 15px 10px;
+  color: #ffffff;
+  font-size: 1.5em;
+  float: left;
+}
+
+.selected{
+  color: #ff606E;
+}
+
+.middle{
+  width: 80%;
+  padding-top: 2%;   
+  /*background: red;*/
+  float: left;
+}
+
+#balletimage{
+  width: 25%; 
+  padding-left: 2%;
+}
+
+#ballettext{
+  padding: 2%;
+  font-size: 1em;
+  margin-left: 3%;
+  line-height: 1.5em;
+  width: 60%;
+  /*background: green;*/
+}
+
+#container{
+	width: 75%;
+  margin: 0 auto;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
